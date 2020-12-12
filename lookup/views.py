@@ -1,3 +1,4 @@
+# This my views file Man!!
 from django.shortcuts import render
 
 def home(request):
